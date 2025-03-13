@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/git/skills-learing/test_cmake/include/myLib.h
+iostream
+-
+
+/root/git/skills-learing/test_cmake/src/main.cpp
+../include/myLib.h
+/root/git/skills-learing/test_cmake/include/myLib.h
+
