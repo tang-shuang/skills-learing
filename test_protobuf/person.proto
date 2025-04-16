@@ -1,0 +1,10 @@
+syntax = "proto3"; // 指定使用 proto3 语法
+
+package tutorial;  // 命名空间，避免冲突
+
+message Person {
+  string name = 1;  // 字符串类型，编号 1
+  int32 age = 2;    // 32 位整数，编号 2
+  repeated string hobbies = 3;  // 可重复字段，类似 C++ vector<string>
+}
+
