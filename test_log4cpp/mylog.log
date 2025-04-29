@@ -1,0 +1,8 @@
+1745915807 DEBUG  : this is a debug message
+1745915807 INFO  : this is an info message
+1745915807 WARN  : this is a warning
+1745915807 ERROR  : this is an error
+2025-04-29 04:38:59,599 [DEBUG] : this is a debug message
+2025-04-29 04:38:59,599 [INFO] : this is an info message
+2025-04-29 04:38:59,599 [WARN] : this is a warning
+2025-04-29 04:38:59,599 [ERROR] : this is an error
