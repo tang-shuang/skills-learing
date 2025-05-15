@@ -1,4 +1,0 @@
-/root/git/skills-learing/test_cmake/build/CMakeFiles/rebuild_cache.dir
-/root/git/skills-learing/test_cmake/build/CMakeFiles/edit_cache.dir
-/root/git/skills-learing/test_cmake/build/CMakeFiles/MyExecutable.dir
-/root/git/skills-learing/test_cmake/build/CMakeFiles/Mylib.dir
